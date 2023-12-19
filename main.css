@@ -34,34 +34,33 @@ body {
   position: relative;
   top: 550px;
 }
-
 @media (min-width: 180px) {
   .banner{
-    top: 500px;
+    top: 440px;
   }
 }
 @media (min-width: 374px) {
   .banner{
-    top: 445px;
+    top: 440px;
   }
 }
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 565px) {
   .banner{
-    top: 390px;
+    top: 700px;
   }
 }
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
   .banner{
-    top: 350px;
+    top: 340px;
   }
 }
 
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
   .banner{
-    top: 295px;
+    top: 240px;
   }
 }
 

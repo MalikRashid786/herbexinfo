@@ -36,24 +36,24 @@ body {
 }
 @media (min-width: 180px) {
   .banner{
-    top: 440px;
+    top: 445px;
   }
 }
 @media (min-width: 374px) {
   .banner{
-    top: 440px;
+    top: 390px;
   }
 }
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 565px) {
   .banner{
-    top: 700px;
+    top: 330px;
   }
 }
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
   .banner{
-    top: 340px;
+    top: 290px;
   }
 }
 
@@ -67,13 +67,13 @@ body {
 /* // X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
   .banner{
-    top: 275px;
+    top: 205px;
   }
 }
 /* // XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) {  
   .banner{
-    top: 270px;
+    top: 200px;
   }
 }
 @media (min-width: 1600px) {  

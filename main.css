@@ -32,60 +32,59 @@ body {
 }
 .banner{
   position: relative;
-  top: 100px;
-  background-attachment: fixed;
+  top: 510px;
 }
 
 @media (min-width: 180px) {
   .banner{
-    top: 340px;
+    top: 455px;
   }
 }
 @media (min-width: 374px) {
   .banner{
-    top: 440px;
+    top: 402px;
   }
 }
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 565px) {
   .banner{
-    top: 386px;
+    top: 345px;
   }
 }
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
   .banner{
-    top: 345px;
+    top: 305px;
   }
 }
 
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
   .banner{
-    top: 290px;
+    top: 252px;
   }
 }
 
 /* // X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
   .banner{
-    top: 272px;
+    top: 230px;
   }
 }
 /* // XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) {  
   .banner{
-    top: 275px;
+    top: 270px;
   }
 }
 @media (min-width: 1600px) {  
   .banner{
-    top: 27px;
+    top: 110px;
   }
 }
 @media (min-width: 1800px) {  
   .banner{
-    top: 35px;
+    top: 135px;
   }
 }
 
@@ -93,6 +92,7 @@ body {
   width: 100%;
   position: relative;
 }
+
 .background{
   background: url("./public/Background-img.png");
   background-size: 100%;

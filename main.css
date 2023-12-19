@@ -32,43 +32,43 @@ body {
 }
 .banner{
   position: relative;
-  top: 510px;
+  top: 550px;
 }
 
 @media (min-width: 180px) {
   .banner{
-    top: 455px;
+    top: 500px;
   }
 }
 @media (min-width: 374px) {
   .banner{
-    top: 402px;
+    top: 445px;
   }
 }
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 565px) {
   .banner{
-    top: 345px;
+    top: 390px;
   }
 }
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
   .banner{
-    top: 305px;
+    top: 350px;
   }
 }
 
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
   .banner{
-    top: 252px;
+    top: 295px;
   }
 }
 
 /* // X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
   .banner{
-    top: 230px;
+    top: 275px;
   }
 }
 /* // XX-Large devices (larger desktops, 1400px and up) */

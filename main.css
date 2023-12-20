@@ -31,56 +31,43 @@ body {
   z-index: 1;
 }
 .banner{
-  position: relative;
-  top: 550px;
+  position: absolute;
+  top:250px;
 }
-@media screen and (max-width: 374px) and (min-width: 180px){
+
+/* @media screen and (max-width: 374px) and (min-width: 180px){
   .banner{
     top:445px;
   }
-}
+} */
 /* // Small devices (landscape phones, 576px and up) */
-@media screen and (max-width: 565px) and (min-width: 374px){
+@media screen and (max-width: 576px){
   .banner{
-    top:595px;
+    top:250px;
   }
 }
 /* // Medium devices (tablets, 768px and up) */
-@media screen and (max-width: 768px) and (min-width: 565px){ 
+@media screen and (max-width: 768px) and (min-width: 576px){ 
   .banner{
-    top: 840px;
+    top: 170px;
   }
 }
 
 /* // Large devices (desktops, 992px and up) */
 @media screen and (max-width: 992px) and (min-width: 768px){ 
   .banner{
-    top: 590px;
+    top: 90px;
   }
 }
 
 /* // X-Large devices (large desktops, 1200px and up) */
 @media screen and (max-width: 1200px) and (min-width: 992px) { 
   .banner{
-    top: 205px;
+    top:100px;
   }
 }
-/* // XX-Large devices (larger desktops, 1400px and up) */
-@media screen and(max-width: 1400px) and (min-width:1200px){  
-  .banner{
-    top: 200px;
-  }
-}
-@media screen and (max-width: 1600px) and (min-width: 1400px) {  
-  .banner{
-    top: 110px;
-  }
-}
-@media screen and (max-width: 1800px) and (min-width: 1600px){  
-  .banner{
-    top: 135px;
-  }
-}
+
+
 
 #middle-section{
   width: 100%;
